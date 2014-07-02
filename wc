@@ -1,0 +1,3 @@
+The wc command is short for word count. If combined with -l 
+  wc -l file
+it will return the line count of file
